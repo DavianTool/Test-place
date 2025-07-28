@@ -1,2 +1,2 @@
 # Test-place
-My first repository
+My first repository on GitHub
